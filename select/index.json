@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Pills",
+  "base_artist": "Joji",
+  "createdAt": "2026-02-12T03:39:27.554708Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sleeping Pills",
+      "artist": "Suede",
+      "has_synced": true,
+      "path": "select/01_Sleeping_Pills_Suede.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pills",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/02_Pills_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pills (Live At The Zepp)",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/03_Pills_(Live_At_The_Zepp)_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Whiskey And Pills",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/04_Whiskey_And_Pills_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Decibels and the Little Pills",
+      "artist": "American Music Club",
+      "has_synced": false,
+      "path": "select/05_The_Decibels_and_the_Little_Pills_American_Music_Club.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Two Pills - Bonus Track",
+      "artist": "The Shoes feat. Thomas Azier",
+      "has_synced": true,
+      "path": "select/06_Two_Pills_-_Bonus_Track_The_Shoes_feat._Thomas_Azier.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Two Pills (feat. Thomas Azier)",
+      "artist": "The Shoes",
+      "has_synced": true,
+      "path": "select/07_Two_Pills_(feat._Thomas_Azier)_The_Shoes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Pills Won't Help You Now",
+      "artist": "The Chemical Brothers",
+      "has_synced": false,
+      "path": "select/08_The_Pills_Won't_Help_You_Now_The_Chemical_Brothers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Pills Won't Help You Now",
+      "artist": "The Chemical Brothers",
+      "has_synced": true,
+      "path": "select/09_The_Pills_Won't_Help_You_Now_The_Chemical_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "pills",
+      "artist": "Elohim",
+      "has_synced": true,
+      "path": "select/10_pills_Elohim.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pills",
+      "artist": "Client",
+      "has_synced": true,
+      "path": "select/11_Pills_Client.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flower Pills",
+      "artist": "Coma Cinema",
+      "has_synced": false,
+      "path": "select/12_Flower_Pills_Coma_Cinema.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Take Pills",
+      "artist": "Cex",
+      "has_synced": false,
+      "path": "select/13_Take_Pills_Cex.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Pills Won't Help You Now (feat. Tim Smith)",
+      "artist": "The Chemical Brothers",
+      "has_synced": true,
+      "path": "select/14_The_Pills_Won't_Help_You_Now_(feat._Tim_Smith)_The_Chemical_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blueberry (Pills & Cocaine)",
+      "artist": "Darq E Freaker feat. Danny Brown",
+      "has_synced": true,
+      "path": "select/15_Blueberry_(Pills_&_Cocaine)_Darq_E_Freaker_feat._Danny_Brown.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blueberry (Pills & Cocaine) (feat. Danny Brown)",
+      "artist": "Darq E Freaker",
+      "has_synced": true,
+      "path": "select/16_Blueberry_(Pills_&_Cocaine)_(feat._Danny_Brown)_Darq_E_Freaker.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Horse Pills",
+      "artist": "The Dandy Warhols",
+      "has_synced": true,
+      "path": "select/17_Horse_Pills_The_Dandy_Warhols.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Russia on Ice / The Pills I'm Taking (Live)",
+      "artist": "Porcupine Tree",
+      "has_synced": false,
+      "path": "select/18_Russia_on_Ice___The_Pills_I'm_Taking_(Live)_Porcupine_Tree.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Pills and Soap",
+      "artist": "Elvis Costello",
+      "has_synced": true,
+      "path": "select/19_Pills_and_Soap_Elvis_Costello.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pills",
+      "artist": "Joji",
+      "has_synced": false,
+      "path": "select/pl_01_Pills_Joji.txt"
+    }
+  ]
+}
